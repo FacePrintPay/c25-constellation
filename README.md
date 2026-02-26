@@ -12,6 +12,6 @@ chmod +x constellation.sh
 ```
 
 ## Source
-/data/data/com.termux/files/home/MRGGTP_EVIDENCE_20260224_162945/code/constellation.sh
+/data/data/com.termux/files/home/constellation-25/constellation.sh
 
 Built by Constellation 25 — FacePrintPay / Cygel White
