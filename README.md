@@ -2,8 +2,8 @@
 **Constellation 25 Confirmed Script** — ran successfully on device
 
 ## Stats
-- Lines: 21
-- Dependencies: curl python 
+- Lines: 245
+- Dependencies: apt curl python 
 
 ## Usage
 ```bash
@@ -12,6 +12,6 @@ chmod +x constellation.sh
 ```
 
 ## Source
-/data/data/com.termux/files/home/MRGGTP_EVIDENCE_20260223_182930/code/constellation.sh
+/data/data/com.termux/files/home/MRGGTP_EVIDENCE_20260224_162945/code/constellation.sh
 
 Built by Constellation 25 — FacePrintPay / Cygel White
